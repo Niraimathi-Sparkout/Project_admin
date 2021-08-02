@@ -23,7 +23,7 @@ if($btn_hover_color=='')
 <meta charset="utf-8">
 <meta name="description" content="bootstrap default admin template">
 <meta name="viewport" content="width=device-width">
-<title>Dynamic CSS Sample Test</title>
+<title>Dynamic CSS Sample feature</title>
 <link rel="shortcut icon" href="<?=BASEURL?>assets/favicon/favicon.png" type="image/x-icon"/> 
 <link rel="stylesheet" href="<?=BASEURL?>assets/vendor/bootstrap/css/bootstrap.css">
 <link rel="stylesheet" href="<?=BASEURL?>assets/vendor/font-awesome/css/font-awesome.css">
